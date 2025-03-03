@@ -1,0 +1,30 @@
+name: algo
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - python-dotenv
+  - requests
+  - beautifulsoup4
+  - pydub
+  - numpy
+  - pandas
+  - scipy
+  - pytorch
+  - jupyterlab
+  - jupyterlab
+  - ipywidgets
+  - pyarrow
+  - anthropic
+  - google-generativeai
+  - matplotlib
+  - scikit-learn
+  - chromadb
+  - jupyter-dash
+  - plotly
+  - twilio
+  - duckdb
+  - feedparser
+  - ipykernel
